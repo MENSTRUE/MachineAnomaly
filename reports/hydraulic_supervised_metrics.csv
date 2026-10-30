@@ -1,0 +1,5 @@
+target,train_count,test_count,train_classes,test_classes,unseen_test_classes,accuracy,balanced_accuracy,macro_f1,interpretation
+cooler,1764,441,"[3, 20, 100]",[100],[],1.0,1.0,1.0,Chronological holdout; unseen target states cannot be predicted by a standard classifier.
+valve,1764,441,"[73, 80, 90, 100]","[73, 80, 90, 100]",[],0.7142857142857143,0.6963513513513514,0.6931585602844699,Chronological holdout; unseen target states cannot be predicted by a standard classifier.
+pump,1764,441,"[0, 1, 2]","[0, 1, 2]",[],1.0,1.0,1.0,Chronological holdout; unseen target states cannot be predicted by a standard classifier.
+accumulator,1764,441,"[90, 100, 115, 130]","[90, 100, 115, 130]",[],0.19047619047619047,0.3397887323943662,0.1650485436893204,Chronological holdout; unseen target states cannot be predicted by a standard classifier.

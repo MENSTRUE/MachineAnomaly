@@ -1,0 +1,3 @@
+source,original_url,doi,license,role,label_contract
+UCI Hydraulic Condition Monitoring,https://archive.ics.uci.edu/dataset/447/condition+monitoring+of+hydraulic+systems,10.24432/C5CW21,CC BY 4.0,Supervised condition diagnosis and normal-reference anomaly benchmark,profile.txt: cooler/valve/pump/accumulator/stable flag
+NASA IMS Bearings (University of Cincinnati),https://data.nasa.gov/dataset/ims-bearings,,NASA portal: check original terms and attribution,Three run-to-failure vibration trend / unsupervised anomaly monitoring,No per-snapshot fault classes; test-end damage descriptions only

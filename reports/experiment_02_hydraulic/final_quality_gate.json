@@ -1,0 +1,24 @@
+{
+  "version": "day25_final_with_experiment02",
+  "checks": {
+    "baseline_cells_preserved": true,
+    "targets_complete": true,
+    "four_model_files": true,
+    "validation_ledger_present": true,
+    "holdout_metrics_present": true,
+    "ims_timelines_present": true,
+    "no_partition_overlap": true,
+    "complete_partitions": true,
+    "prediction_roundtrip": true,
+    "metrics_finite": true,
+    "metric_ranges_valid": true
+  },
+  "limitations": [
+    "Experiment 01 chronological and Experiment 02 stratified metrics are not directly comparable as performance improvement.",
+    "Random stratification can leak operating-regime similarity between partitions despite distinct cycle IDs.",
+    "Hydraulic statuses are component condition labels, not time-to-failure targets.",
+    "IMS uses early-life reference scores without per-snapshot truth; alarm rates are not model accuracy.",
+    "No external domain validation, industrial deployment or lead-time reliability claim is made."
+  ],
+  "status": "PASS_REPRODUCIBILITY"
+}

@@ -1,0 +1,8 @@
+{
+  "hydraulic": "/kaggle/input/datasets/wafabila/machineanomaly-dataset/hydraulic-systems",
+  "ims": {
+    "1st_test": "/kaggle/input/datasets/wafabila/machineanomaly-dataset/ims-bearings/sensor-data/1st_test",
+    "2nd_test": "/kaggle/input/datasets/wafabila/machineanomaly-dataset/ims-bearings/sensor-data/2nd_test",
+    "3rd_test": "/kaggle/input/datasets/wafabila/machineanomaly-dataset/ims-bearings/sensor-data/3rd_test"
+  }
+}

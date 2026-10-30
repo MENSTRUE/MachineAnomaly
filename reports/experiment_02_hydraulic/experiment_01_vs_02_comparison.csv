@@ -1,0 +1,5 @@
+target,experiment_01_split,experiment_01_test_accuracy,experiment_01_test_macro_f1,experiment_02_split,experiment_02_test_accuracy,experiment_02_test_macro_f1,comparable_as_direct_improvement,interpretation
+cooler,chronological_80_20,1.0,1.0,stratified_60_20_20,1.0,1.0,False,Different holdout protocols. Report both; do not subtract as performance uplift.
+valve,chronological_80_20,0.7142857142857143,0.6931585602844699,stratified_60_20_20,0.9909297052154195,0.988447773490877,False,Different holdout protocols. Report both; do not subtract as performance uplift.
+pump,chronological_80_20,1.0,1.0,stratified_60_20_20,1.0,1.0,False,Different holdout protocols. Report both; do not subtract as performance uplift.
+accumulator,chronological_80_20,0.1904761904761904,0.1650485436893204,stratified_60_20_20,0.9863945578231292,0.9841300400410254,False,Different holdout protocols. Report both; do not subtract as performance uplift.

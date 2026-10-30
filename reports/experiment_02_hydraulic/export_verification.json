@@ -1,0 +1,22 @@
+[
+  {
+    "target": "cooler",
+    "path": "/kaggle/working/machineanomaly_day25/experiment_02_hydraulic/models/hydraulic_cooler_champion.joblib",
+    "roundtrip_verified": true
+  },
+  {
+    "target": "valve",
+    "path": "/kaggle/working/machineanomaly_day25/experiment_02_hydraulic/models/hydraulic_valve_champion.joblib",
+    "roundtrip_verified": true
+  },
+  {
+    "target": "pump",
+    "path": "/kaggle/working/machineanomaly_day25/experiment_02_hydraulic/models/hydraulic_pump_champion.joblib",
+    "roundtrip_verified": true
+  },
+  {
+    "target": "accumulator",
+    "path": "/kaggle/working/machineanomaly_day25/experiment_02_hydraulic/models/hydraulic_accumulator_champion.joblib",
+    "roundtrip_verified": true
+  }
+]

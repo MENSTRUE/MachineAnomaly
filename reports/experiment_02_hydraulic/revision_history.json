@@ -1,0 +1,15 @@
+{
+  "experiment_01": "Original notebook 00\u201313, unchanged",
+  "experiment_02": "Hydraulic target-specific stratified validation/model selection with untouched final test",
+  "reason_for_revision": "Chronological baseline support is skewed by condition blocks; add a complementary within-dataset experiment",
+  "no_retraining_of_ims_by_revision_cells": true,
+  "limitations": [
+    "Experiment 01 and 02 test metrics must not be interpreted as direct performance gains.",
+    "Stratified random splitting may preserve temporal or operating-regime dependence.",
+    "Each target uses a different cycle partition; scores cannot be assumed to share the same test rows.",
+    "IMS early-reference alarm fractions are not classification accuracy.",
+    "No production fault-detection or predictive-maintenance validation is claimed."
+  ],
+  "experiment_02_execution_status": "completed_from_actual_runtime",
+  "experiment_02_models_export_roundtrip": true
+}

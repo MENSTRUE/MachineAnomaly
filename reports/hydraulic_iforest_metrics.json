@@ -1,0 +1,14 @@
+{
+  "n": 441,
+  "positives": 431,
+  "negatives": 10,
+  "roc_auc": 0.5784222737819027,
+  "average_precision": 0.9874592271758948,
+  "status": "ok",
+  "threshold": 0.5757898245064167,
+  "threshold_source": "95th percentile TRAIN reference only",
+  "reference_policy": "least_degraded_stable_training_proxy_max_degraded_components_1",
+  "pred_positive": 213,
+  "prediction_precision": 1.0,
+  "note": "Weak anomaly proxy: any component degraded. Stability and chronological drift can confound scores."
+}

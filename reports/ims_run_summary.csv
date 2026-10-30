@@ -1,0 +1,4 @@
+test,n_snapshots,reference_count,threshold,early_reference_alarm_rate,later_alarm_rate,last_10pct_alarm_rate,status
+1st_test,2156,539,0.5700247403998832,0.03153988868274583,0.3815708101422387,0.9813953488372092,unlabeled early-reference anomaly monitoring; NOT classification accuracy
+2nd_test,984,246,0.5900339184370619,0.032520325203252036,0.36314363143631434,1.0,unlabeled early-reference anomaly monitoring; NOT classification accuracy
+3rd_test,6324,1581,0.6158208262559371,0.030360531309297913,0.04996837444655281,0.3370253164556962,unlabeled early-reference anomaly monitoring; NOT classification accuracy

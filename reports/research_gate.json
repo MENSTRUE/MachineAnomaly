@@ -1,0 +1,32 @@
+{
+  "dataset_inputs_found": true,
+  "hydraulic": {
+    "cycles": 2205,
+    "n_features": 170,
+    "train_test_separate": true,
+    "normal_reference_training_only": true,
+    "reference_policy": "least_degraded_stable_training_proxy_max_degraded_components_1",
+    "holdout_label_support": "ok",
+    "metrics_file_exists": true
+  },
+  "ims": {
+    "tests": [
+      "1st_test",
+      "2nd_test",
+      "3rd_test"
+    ],
+    "snapshot_counts": {
+      "1st_test": 2156,
+      "2nd_test": 984,
+      "3rd_test": 6324
+    },
+    "labels_available_per_snapshot": false,
+    "fit_only_early_reference": true,
+    "time_series_csv_exists": true
+  },
+  "research_limitations": [
+    "Chronological hydraulic holdout may contain unseen condition levels; report class support and no external validation.",
+    "IMS results are unsupervised change indicators; neither failures nor lead time are validated at snapshot granularity.",
+    "IMS features cover only first configured rows of each snapshot, not entire second; no FFT fault-frequency diagnosis."
+  ]
+}

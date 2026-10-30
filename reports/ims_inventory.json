@@ -1,0 +1,20 @@
+{
+  "1st_test": {
+    "snapshot_count": 2156,
+    "first": "2003.10.22.12.06.24",
+    "last": "2003.11.25.23.39.56",
+    "root": "/kaggle/input/datasets/wafabila/machineanomaly-dataset/ims-bearings/sensor-data/1st_test"
+  },
+  "2nd_test": {
+    "snapshot_count": 984,
+    "first": "2004.02.12.10.32.39",
+    "last": "2004.02.19.06.22.39",
+    "root": "/kaggle/input/datasets/wafabila/machineanomaly-dataset/ims-bearings/sensor-data/2nd_test"
+  },
+  "3rd_test": {
+    "snapshot_count": 6324,
+    "first": "2004.03.04.09.27.46",
+    "last": "2004.04.18.02.42.55",
+    "root": "/kaggle/input/datasets/wafabila/machineanomaly-dataset/ims-bearings/sensor-data/3rd_test"
+  }
+}

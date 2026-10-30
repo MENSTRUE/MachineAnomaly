@@ -1,0 +1,80 @@
+{
+  "cut": 1764,
+  "train_cycle_range": [
+    0,
+    1763
+  ],
+  "test_cycle_range": [
+    1764,
+    2204
+  ],
+  "targets": [
+    {
+      "target": "cooler",
+      "train": {
+        "3": 732,
+        "20": 732,
+        "100": 300
+      },
+      "test": {
+        "100": 441
+      }
+    },
+    {
+      "target": "valve",
+      "train": {
+        "100": 977,
+        "73": 267,
+        "80": 260,
+        "90": 260
+      },
+      "test": {
+        "100": 148,
+        "80": 100,
+        "90": 100,
+        "73": 93
+      }
+    },
+    {
+      "target": "pump",
+      "train": {
+        "0": 1026,
+        "2": 369,
+        "1": 369
+      },
+      "test": {
+        "0": 195,
+        "2": 123,
+        "1": 123
+      }
+    },
+    {
+      "target": "accumulator",
+      "train": {
+        "90": 666,
+        "130": 566,
+        "115": 266,
+        "100": 266
+      },
+      "test": {
+        "90": 142,
+        "115": 133,
+        "100": 133,
+        "130": 33
+      }
+    },
+    {
+      "target": "any_component_degraded",
+      "train": {
+        "1": 1753,
+        "0": 11
+      },
+      "test": {
+        "1": 431,
+        "0": 10
+      }
+    }
+  ],
+  "normal_reference_count": 435,
+  "reference_policy": "least_degraded_stable_training_proxy_max_degraded_components_1"
+}

@@ -1,0 +1,350 @@
+{
+  "quality_gate": "PASS_REPRODUCIBILITY",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 1172,
+      "sha256": "27acd5f0496ea61bb7d25e7a161b0545587be0c4becf9cb27968a70f15ff966c"
+    },
+    {
+      "path": "experiment_02_hydraulic/models/hydraulic_accumulator_champion.joblib",
+      "bytes": 3301196,
+      "sha256": "9f24a36dbeb8897dc7a18cf90233c62a56a54c70a3fe3e12d9ac470ab7733e19"
+    },
+    {
+      "path": "experiment_02_hydraulic/models/hydraulic_cooler_champion.joblib",
+      "bytes": 326541,
+      "sha256": "1d3cf2bba51ce8b40d44dcefb135bb851904528e6c4a16282719cf168c71e2ec"
+    },
+    {
+      "path": "experiment_02_hydraulic/models/hydraulic_pump_champion.joblib",
+      "bytes": 3495075,
+      "sha256": "ff620460fdb7a0deb2131a9f2e0464a67a0681811ba2e2fc5fc44075174d3362"
+    },
+    {
+      "path": "experiment_02_hydraulic/models/hydraulic_valve_champion.joblib",
+      "bytes": 5792006,
+      "sha256": "7804b65d10d46fa3aaff2e4d71ea0e0e4b37b0ba37baa1a9127d8baffd6b4202"
+    },
+    {
+      "path": "experiment_02_hydraulic/plots/accumulator_heldout_confusion.png",
+      "bytes": 32955,
+      "sha256": "1a6edab7f4f54d23af0b9860ced2a658e06ccd610a42a3f1dae53a4d2e8c5ad9"
+    },
+    {
+      "path": "experiment_02_hydraulic/plots/cooler_heldout_confusion.png",
+      "bytes": 26921,
+      "sha256": "b57e81e54a3dc80e87fff51ce8c690fa2642e981c09f3e43db3c4e48c8b775b6"
+    },
+    {
+      "path": "experiment_02_hydraulic/plots/pump_heldout_confusion.png",
+      "bytes": 25238,
+      "sha256": "8b58adcc20793b9d78dafbf5a3bf2edb7e8883bb099eef498b8b886d6336409d"
+    },
+    {
+      "path": "experiment_02_hydraulic/plots/valve_heldout_confusion.png",
+      "bytes": 30889,
+      "sha256": "048ce72103293642d4da0cbf33fb76723bdeebdc8f615de27c26e217492670ac"
+    },
+    {
+      "path": "experiment_02_hydraulic/reports/accumulator_heldout_predictions.csv",
+      "bytes": 5206,
+      "sha256": "2e58834943a2015b499bdc284a45708bbc0f39ee0c0be88c48758ba91ace1644"
+    },
+    {
+      "path": "experiment_02_hydraulic/reports/accumulator_per_class_report.json",
+      "bytes": 871,
+      "sha256": "a0c6aa8d7a624385edf1591c7f04feeb3dd90d74416aad2e23b232914eb01d12"
+    },
+    {
+      "path": "experiment_02_hydraulic/reports/accumulator_test_cycle_ids.csv",
+      "bytes": 3597,
+      "sha256": "1e8881ca7f48cd17331ab310de7a8b2d155d28f923f227a9c1042c0d97734bd1"
+    },
+    {
+      "path": "experiment_02_hydraulic/reports/accumulator_train_cycle_ids.csv",
+      "bytes": 10777,
+      "sha256": "85e1fc102cbc44b39a4fe01234f019d7910cad49a34624f83afb7177a356dda9"
+    },
+    {
+      "path": "experiment_02_hydraulic/reports/accumulator_validation_cycle_ids.csv",
+      "bytes": 3601,
+      "sha256": "b240084ae24c89d2e36c5c02360d63c58e77f736d4806ac06a052d732521f9ea"
+    },
+    {
+      "path": "experiment_02_hydraulic/reports/artifact_manifest.json",
+      "bytes": 11566,
+      "sha256": "501bda6286a86676f69d70115f4a984a591005d6e3b6a91ea5543436ef0060da"
+    },
+    {
+      "path": "experiment_02_hydraulic/reports/cooler_heldout_predictions.csv",
+      "bytes": 4640,
+      "sha256": "de4c4001a7fcfe74c12e36c1306853553dd6f87bccc4dce4c19ed72b6d1c3cbc"
+    },
+    {
+      "path": "experiment_02_hydraulic/reports/cooler_per_class_report.json",
+      "bytes": 528,
+      "sha256": "58e0d003934f76f379565e675e196802cfc599a5d220ddd6243fb9fde7947ece"
+    },
+    {
+      "path": "experiment_02_hydraulic/reports/cooler_test_cycle_ids.csv",
+      "bytes": 3309,
+      "sha256": "c05fcece66067aec115a0ffe9930e25b7431aafefa48218ec83640af91a919ea"
+    },
+    {
+      "path": "experiment_02_hydraulic/reports/cooler_train_cycle_ids.csv",
+      "bytes": 9948,
+      "sha256": "36c382fad5804b3c759fa0a26aff04ebfb79ac4a5dc4177e0096caff72b3f2fa"
+    },
+    {
+      "path": "experiment_02_hydraulic/reports/cooler_validation_cycle_ids.csv",
+      "bytes": 3330,
+      "sha256": "70d2729f59ea99188e41ab83825e1422290abaf4ad9e431063ee3e330bddd045"
+    },
+    {
+      "path": "experiment_02_hydraulic/reports/experiment_01_vs_02_comparison.csv",
+      "bytes": 928,
+      "sha256": "1b31237477cf6d8ad1b896dfdee1a09c080ed3896417b7a4342b1757634bda2a"
+    },
+    {
+      "path": "experiment_02_hydraulic/reports/export_verification.json",
+      "bytes": 726,
+      "sha256": "9b7e93f3868a206d5a8df492e51943122c39f4ab338780c5a59981557672b99e"
+    },
+    {
+      "path": "experiment_02_hydraulic/reports/final_quality_gate.json",
+      "bytes": 1032,
+      "sha256": "d7907ebb479948b7a81761ab75e925de93307fd0f2a307e9fe1179112f13642f"
+    },
+    {
+      "path": "experiment_02_hydraulic/reports/heldout_final_metrics.csv",
+      "bytes": 1263,
+      "sha256": "e4124b7af1b305b7987ad3f9d6982fd5c135c88c12a4819197da883e97157211"
+    },
+    {
+      "path": "experiment_02_hydraulic/reports/pump_heldout_predictions.csv",
+      "bytes": 3791,
+      "sha256": "63544589ac6c93d4772cfc5bc3a1634f5f97f93985af0048a06cacc7ec4212bc"
+    },
+    {
+      "path": "experiment_02_hydraulic/reports/pump_per_class_report.json",
+      "bytes": 523,
+      "sha256": "f58fd4e8fc25e5c0b45f076864c13b1b7442c51305069d787c6a65cee0ec2366"
+    },
+    {
+      "path": "experiment_02_hydraulic/reports/pump_test_cycle_ids.csv",
+      "bytes": 2902,
+      "sha256": "6b879dff682007b6648b1fabb7ffb5a0aa195e0db3b30c506cc9f7f95eb4d64e"
+    },
+    {
+      "path": "experiment_02_hydraulic/reports/pump_train_cycle_ids.csv",
+      "bytes": 8611,
+      "sha256": "b43286738c55f283280806a26e841de4796819b746c862c2cc26c6eef83e90c9"
+    },
+    {
+      "path": "experiment_02_hydraulic/reports/pump_validation_cycle_ids.csv",
+      "bytes": 2860,
+      "sha256": "075302f0577379bb536bcc2c06e06cd7921e65a81059f891c7980d57234644ab"
+    },
+    {
+      "path": "experiment_02_hydraulic/reports/revision_history.json",
+      "bytes": 955,
+      "sha256": "3270a539ddd0e686831c5aa0140715123af5b7b7af838d03c9b53946eac26fae"
+    },
+    {
+      "path": "experiment_02_hydraulic/reports/split_class_support.csv",
+      "bytes": 940,
+      "sha256": "b707abb52f4c59077363caedf86faab7dd18f6e7b793a4b762a19d8b9face270"
+    },
+    {
+      "path": "experiment_02_hydraulic/reports/validation_candidate_ledger.csv",
+      "bytes": 930,
+      "sha256": "58055a02a251ecf2c93795f0d69e465fdac58e844e56024e7075386b329a6a75"
+    },
+    {
+      "path": "experiment_02_hydraulic/reports/valve_heldout_predictions.csv",
+      "bytes": 5104,
+      "sha256": "9faf0bbf66c28b7a98d3de5ad638753bfd16ba8cea6bc634f93708503e2a59bf"
+    },
+    {
+      "path": "experiment_02_hydraulic/reports/valve_per_class_report.json",
+      "bytes": 890,
+      "sha256": "a7c63c286589127ac187786b2c9dbdcf879418fe870a33d64eed9f99e32ba2fc"
+    },
+    {
+      "path": "experiment_02_hydraulic/reports/valve_test_cycle_ids.csv",
+      "bytes": 3549,
+      "sha256": "a7e1d823414321072cf0032db47ec4bc0bf9664c1d7e17d9d74ac74048850a1e"
+    },
+    {
+      "path": "experiment_02_hydraulic/reports/valve_train_cycle_ids.csv",
+      "bytes": 10610,
+      "sha256": "9d2d6372c2674b084c69dabb541ff48b10c9fdf4ccac5fd0b778678983148a2e"
+    },
+    {
+      "path": "experiment_02_hydraulic/reports/valve_validation_cycle_ids.csv",
+      "bytes": 3544,
+      "sha256": "29cc8e200dbd5f66215f01e150f2ffd8ad185fa3ba8c7a5b64bef01b81982158"
+    },
+    {
+      "path": "features/hydraulic_cycle_features.csv",
+      "bytes": 3184766,
+      "sha256": "918c21abaabcd73c28980b247f975ae8e04c9cb9682cfcf61bd7566035cde711"
+    },
+    {
+      "path": "features/hydraulic_profile.csv",
+      "bytes": 54449,
+      "sha256": "891c170b8b6f83e92b0bcb31db68c1470efdd4877430bbe1c6db550cb45603f9"
+    },
+    {
+      "path": "features/ims_1st_test_features.csv",
+      "bytes": 484874,
+      "sha256": "02e22ca798e5d7a374d7022c7b8fb5bcf630c7b378b208ef9a6dfd0535a844ee"
+    },
+    {
+      "path": "features/ims_2nd_test_features.csv",
+      "bytes": 221318,
+      "sha256": "ee8d8887d07e091901ce4f1929e54aad5cc6339d86491f4075d8526f0ac7d71e"
+    },
+    {
+      "path": "features/ims_3rd_test_features.csv",
+      "bytes": 1437525,
+      "sha256": "3efec8080ba54b6f3965de9f8449a890fd529645fc4059e2e351830613d2ef73"
+    },
+    {
+      "path": "features/ims_all_test_features.csv",
+      "bytes": 2143423,
+      "sha256": "23a7a9f2f649f731d8e27181cd8db574a1e96659b972bf370c12d999d441d392"
+    },
+    {
+      "path": "models/hydraulic_accumulator_rf.joblib",
+      "bytes": 2981111,
+      "sha256": "374db7753013dbe5cb6ff59ebccf0bc089b870755f1310fef1a808b6ef14c0f3"
+    },
+    {
+      "path": "models/hydraulic_anomaly_iforest.joblib",
+      "bytes": 3204896,
+      "sha256": "5c135668ff737acefa38acdb8534c027263b288c8fc55c674d0468800f05272b"
+    },
+    {
+      "path": "models/hydraulic_cooler_rf.joblib",
+      "bytes": 323690,
+      "sha256": "e243bbaaa7f89b9173001130d0c1ca7f47cdd1f26ffc1dd37e41b5beb171f00d"
+    },
+    {
+      "path": "models/hydraulic_pump_rf.joblib",
+      "bytes": 970312,
+      "sha256": "ae11e6152f046003d4a8caf3946f7aac0066ef4dcb92db4c39c1808719cca3da"
+    },
+    {
+      "path": "models/hydraulic_valve_rf.joblib",
+      "bytes": 5148017,
+      "sha256": "1c1318ca9a245a94179e3f4c5c96912ddcb55f05502ead6932c0d4492626ce9e"
+    },
+    {
+      "path": "models/ims_1st_test_iforest.joblib",
+      "bytes": 2824086,
+      "sha256": "9f77cc294439bd4dc5ce2193088dcf5622262dba458c95d685b16cdc3369ff48"
+    },
+    {
+      "path": "models/ims_2nd_test_iforest.joblib",
+      "bytes": 2456933,
+      "sha256": "c25d9b28115fe7fe356a3896ebe61e21c97bbfa0abec44ba09e4f4194512ca03"
+    },
+    {
+      "path": "models/ims_3rd_test_iforest.joblib",
+      "bytes": 2602326,
+      "sha256": "79618c271d585ccc8d09d91eb21b717e442f02de37e634cba4856e1c144d61a7"
+    },
+    {
+      "path": "plots/hydraulic_anomaly_timeline.png",
+      "bytes": 112849,
+      "sha256": "983aaacc5684fb1970f6f1d3c060248eca5d40cb06593e17f471a25de6869302"
+    },
+    {
+      "path": "plots/ims_1st_test_anomaly_trend.png",
+      "bytes": 230907,
+      "sha256": "4a6112eeb9fa7dc936cb4fc1f2b3076e13fe3c184939fa36d17c03e28dffe001"
+    },
+    {
+      "path": "plots/ims_2nd_test_anomaly_trend.png",
+      "bytes": 204645,
+      "sha256": "b955b2fd612e81d47d9a4c6e4f986bf3521607c796a7b87071abe9b567eaf64b"
+    },
+    {
+      "path": "plots/ims_3rd_test_anomaly_trend.png",
+      "bytes": 161929,
+      "sha256": "8acd94d648014c427ec2b90add73abd4747957c4108c0c145921d46fb3cc4f81"
+    },
+    {
+      "path": "plots/ims_later_alarm_rates.png",
+      "bytes": 35561,
+      "sha256": "ec1decc6e2516ca1841f4f54f6ed95e9466d8c76682cc2a7c799e7a8a4ea9937"
+    },
+    {
+      "path": "reports/dataset_provenance.csv",
+      "bytes": 595,
+      "sha256": "bfe05fb9bae854983762116c64d38c32a7c1779347c101148d1909c771bb0bd6"
+    },
+    {
+      "path": "reports/hydraulic_feature_schema.json",
+      "bytes": 1114,
+      "sha256": "4b8d9dbef1a18dd116936a6c00653af23d9bf879297674192b2e3e3220ff50ea"
+    },
+    {
+      "path": "reports/hydraulic_holdout_predictions.csv",
+      "bytes": 12372,
+      "sha256": "91a2345bc2b1d878b750bb746e08e60f4b3dd7b718ab0f23cf3336e683537b50"
+    },
+    {
+      "path": "reports/hydraulic_iforest_metrics.json",
+      "bytes": 499,
+      "sha256": "ea7e073dc79d1b823352025a2f13ca4e60dae614ce0aa2ed7d557c0d37607273"
+    },
+    {
+      "path": "reports/hydraulic_split_support.json",
+      "bytes": 1271,
+      "sha256": "ddcc50b8a96329aebacfd0a74b5100456507a3e47a61e7a1cb224567b0ad06c0"
+    },
+    {
+      "path": "reports/hydraulic_supervised_metrics.csv",
+      "bytes": 834,
+      "sha256": "348dc5e6bd9e6cf6b0c7e217d59c2c01824a93d837af5b420235cc0bd987aca6"
+    },
+    {
+      "path": "reports/hydraulic_supervised_predictions.csv",
+      "bytes": 13955,
+      "sha256": "c2c265df711ad2da7dde695aa37d7360b09b16c32d0fd9497e4d89e6d71a367f"
+    },
+    {
+      "path": "reports/ims_anomaly_timelines.csv",
+      "bytes": 2725977,
+      "sha256": "c13ced9d01183c46afb61383a995d4e7c8fa1b5eba1d83183872ff3561a1ed16"
+    },
+    {
+      "path": "reports/ims_inventory.json",
+      "bytes": 670,
+      "sha256": "9c412a55c0dfc275d31470c91d2111eee4f1efc9bac9be579aa4e88deb97773b"
+    },
+    {
+      "path": "reports/ims_run_summary.csv",
+      "bytes": 612,
+      "sha256": "ba53b206e1b5f28b643e22c6013f357b8cd89cb26f10d472c9f24cd3b9a37a30"
+    },
+    {
+      "path": "reports/research_gate.json",
+      "bytes": 1049,
+      "sha256": "bb036ecc67882e240b7f7275496cfc8b0ba29e21c99d8c742c5b1f27cefb109e"
+    },
+    {
+      "path": "reports/resolved_paths.json",
+      "bytes": 432,
+      "sha256": "e0f604f799976849ad45079d36f3ee4740a107ba587c4bee3fb62c43ec39cef3"
+    },
+    {
+      "path": "reports/run_config.json",
+      "bytes": 511,
+      "sha256": "525454811d9f6080a130d13707c7269f9b10835a14a75f3e79167a5aac4a82ef"
+    }
+  ]
+}
